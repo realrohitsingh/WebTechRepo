@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    display: flex;
+    background-color: white;
+    height: 70px;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.header1 {
+    /* display: flex; */
+    border-bottom: 2px solid #eee;
+    width: 350px;
+}
+
+.header1 img {
+    flex: 1;
+    text-align: center;
+    padding: 10px 0;
+    cursor: pointer;
+    color: #999;
+}
+
+.bt-name {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}

@@ -1,0 +1,144 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 900;
+    text-align: center;
+}
+
+p {
+    font-size: 30px;
+    text-align: center;
+}
+
+.section1 {
+    display: inline-block;
+    margin-left: 190px;
+    padding: 35px;
+}
+
+.section1>img {
+    width: 453px;
+    height: 302px;
+}
+
+.section1>h3 {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.section1>p {
+    display: inline;
+    font-size: 20px;
+}
+
+.section1>a {
+    display: block;
+    text-decoration: none;
+    font-size: 20px;
+    color: #006cb8;
+}
+
+.section1>a:hover {
+    text-decoration: underline;
+}
+
+/* For image two  */
+.section2 {
+    display: inline-block;
+}
+
+.section2>img {
+    width: 453px;
+    height: 302px;
+}
+
+.section2>h3 {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.section2>p {
+    display: inline;
+    font-size: 20px;
+}
+
+.section2>a {
+    display: block;
+    text-decoration: none;
+    font-size: 20px;
+    color: #006cb8;
+}
+
+.section2>a:hover {
+    text-decoration: underline;
+}
+
+/* image three */
+.section3 {
+    display: inline-block;
+    padding: 40px;
+}
+
+.section3>img {
+    width: 453px;
+    height: 302px;
+}
+
+.section3>h3 {
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.section3>p {
+    display: inline;
+    font-size: 20px;
+}
+
+.section3>a {
+    display: block;
+    text-decoration: none;
+    font-size: 20px;
+    color: #006cb8;
+}
+
+.section3>a:hover {
+    text-decoration: underline;
+}
+
+/* Links Part */
+.passion {
+    text-align: center;
+}
+
+.passion>h2 {
+    font-size: 30px;
+}
+
+.passion>a {
+    text-decoration: none;
+    color: #006cb8;
+    font-size: 25px;
+}
+
+.passion>a:hover {
+    text-decoration: underline;
+}
+
+.passion>button {
+    width: 435px;
+    height: 59px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: #b1040e;
+    color: #FFFFFF;
+    border: none;
+    transition: 0.3s;
+}
+
+.passion>button:hover {
+    background-color: #8B0000;
+    cursor: pointer;
+}
